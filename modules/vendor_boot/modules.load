@@ -10,6 +10,7 @@ oplus_bsp_eas_opt.ko
 oplus_bsp_cpufreq_health.ko
 oplus_bsp_omrg.ko
 cpufreq_bouncing.ko
+cpufreq_uag.ko
 ua_cpu_ioctl.ko
 oplus_bsp_task_overload.ko
 oplus_bsp_mm_osvelte.ko
@@ -89,6 +90,7 @@ qcom_iommu_util.ko
 iommu-logger.ko
 qti-regmap-debugfs.ko
 oplus_procs_load.ko
+oplus_power_notifier.ko
 qcom-spmi-pmic.ko
 qcom_dma_heaps.ko
 spmi-pmic-arb.ko
